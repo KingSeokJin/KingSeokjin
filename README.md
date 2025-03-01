@@ -11,7 +11,7 @@
 
 ## 🚀 Major Projects  
 ### 🔹 [책산책](https://github.com/B00KJourney)  
-- 🔗 [Organization에서 진행한 프로젝트 보기](https://github.com/B00KJourney/bookJourney-frontend)  
+- 🔗 [책산책](https://github.com/B00KJourney/bookJourney-frontend)  
 - 👥 **팀 프로젝트에서 내 역할:** 로그인, 회원가입, 온보딩, 홈 페이지 UI 개발 / 로그인, 회원가입, 홈화면 각종 조회 API 연동  
 - 🔨 **사용 기술:** JavaScript, React  
 
