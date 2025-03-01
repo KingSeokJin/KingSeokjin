@@ -13,7 +13,10 @@
 ### 🔹 [책산책 - 독서 기록&감상 공유 플랫폼](https://github.com/B00KJourney)  
 - 🔗 [책산책 FE repo](https://github.com/B00KJourney/bookJourney-frontend)  
 - 👥 **팀 프로젝트에서 내 역할:** 로그인, 회원가입, 온보딩, 홈 페이지 UI 개발 / 로그인, 회원가입, 홈화면 각종 조회 API 연동  
-- 🔨 **사용 기술:** JavaScript, React  
+- 🔨 **사용 기술:** ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)  
 
 ---
 
