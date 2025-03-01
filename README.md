@@ -12,6 +12,7 @@
 ## 🚀 Major Projects  
 ### 🔹 [책산책 - 독서 기록&감상 공유 플랫폼](https://github.com/B00KJourney)  
 <img src="https://private-user-images.githubusercontent.com/130340360/415323387-370da8db-059d-49b0-a0cb-18422ec403ce.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4NDc4MzksIm5iZiI6MTc0MDg0NzUzOSwicGF0aCI6Ii8xMzAzNDAzNjAvNDE1MzIzMzg3LTM3MGRhOGRiLTA1OWQtNDliMC1hMGNiLTE4NDIyZWM0MDNjZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMVQxNjQ1MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YjkzN2U2MjM4ZmE5NmEyNzgxODQzOGYwOWVlZGZkZjdlNTc0ZmIyN2UxMDU1YjE1MzEzMjg4NDUwYzliMWJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.r2Yetc5BaQOrmBeHII4nkAtuA0CxCJi9W0pLJHyGpgk" width="200">
+<br>
 - 🔗 [책산책 FE repo](https://github.com/B00KJourney/bookJourney-frontend)  
 - 👥 **팀 프로젝트에서 내 역할:**
     - **UI 개발:** 로그인, 회원가입, 온보딩, 홈 페이지
