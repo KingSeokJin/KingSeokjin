@@ -44,7 +44,7 @@
 
 ---
 
-- **웹 배포 주소(백엔드 서버 이전 중...)**
+- **웹 배포 주소**
 - (https://cork-charge-fe-deployment.vercel.app/)
 
 - **주요 페이지**
