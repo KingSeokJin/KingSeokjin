@@ -18,6 +18,10 @@
 ### 🌟 프로젝트 소개
 
 코르크차지는 외식과 콜키지 문화가 일상화되는 시대에 사용자가 더 나은 선택을 할 수 있도록 공간과 문화를 '큐레이션'하는 서비스입니다. 변화하는 주류 문화 속에서 콜키지 시장의 정보 부족, 인식 부족, 비즈니스 부족을 해결하여 새로운 주류 문화를 선도하고자 합니다.
+👥 **내 역할:**
+    - **UI 개발:** 콜키지맵, 해주세요
+    - **API 연동:** 로그인, 회원가입, 홈화면 각종 조회 
+    - **그 외 작업:** 웹 도메인 vercel 배포, github action 를 통한 ci/cd 구축, 개발 컨벤션을 포함한 문서 작업 
 
 ---
 
@@ -77,7 +81,7 @@
 <br>
 
 - 🔗 [책산책 FE repo](https://github.com/B00KJourney/bookJourney-frontend)  
-- 👥 **팀 프로젝트에서 내 역할:**
+- 👥 **내 역할:**
     - **UI 개발:** 로그인, 회원가입, 온보딩, 홈 페이지
     - **API 연동:** 로그인, 회원가입, 홈화면 각종 조회   
 - 🔨 **사용 기술:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)  
